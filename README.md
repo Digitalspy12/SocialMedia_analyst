@@ -2,6 +2,9 @@
 # Social Media Analysis Chatbot 
 
 This Streamlit application provides a chatbot for analyzing social media content. It leverages the Langflow API to process user input and generate insights.
+## Langflow 
+![Screenshot from 2025-01-03 14-24-28](https://github.com/user-attachments/assets/5a378722-53e7-4fc8-81a6-0c041b719389)
+
 
 
 ## Roadmap
