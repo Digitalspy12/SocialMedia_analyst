@@ -24,4 +24,7 @@ To run the code in terminal
 ```bash
   streamlit run ./main.py
 ```
+## Demo 
+[Screencast from 2025-01-01 19-03-30.webm](https://github.com/user-attachments/assets/667334fe-eb37-4276-a92e-2ab269fed790)
+
 
